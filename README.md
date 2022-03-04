@@ -1,4 +1,4 @@
-# Integarted Behavioral Healthcare
+# Integrated Behavioral Healthcare
 Website and scheduling hub for Integrated Behavioral Healthcare
 
 Ruby 3+
